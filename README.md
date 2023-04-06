@@ -1,5 +1,9 @@
 # Consumir API
 
+<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/jcvieiradev/consumindoApi">
+
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/jcvieiradev/consumindoApi">
+
 ## API
 
 Criar um api
@@ -34,9 +38,9 @@ https://www.youtube.com/watch?v=vYlz3SmNXQQ
 ## Para subir para o GitHub:
 
 - [x] Criar arquivo .gitignore e colocar node_modules
-- [] git init
-- [] git add .
-- [] git commit -m "first commit"
-- [] git branch -M main
-- [] git remote add origin https://github.com/jcvieiradev/consumindoApi.git
-- [] git push -u origin main
+- [x] git init
+- [x] git add .
+- [x] git commit -m "first commit"
+- [x] git branch -M main
+- [x] git remote add origin https://github.com/jcvieiradev/consumindoApi.git
+- [x] git push -u origin main
